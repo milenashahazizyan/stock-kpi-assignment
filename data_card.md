@@ -38,7 +38,8 @@ Different time periods were selected:
 ---
 ### Basic visualisations 
 
-
+The following section presents basic visualisations of stock price trends for selected companies. Each chart illustrates the evolution of closing prices over time.
+The graphs display closing prices for each company, helping to identify trends, fluctuations, and potential anomalies in the data.
 
 ![AMD](output_NFLX.png)
 ![AMD](output_AMZN.png)
