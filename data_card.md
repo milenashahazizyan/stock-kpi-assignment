@@ -26,8 +26,17 @@ Different time periods were selected:
 - AAPL – 9 months
 - AMZN – 1 year
 
+| Ticker | Company | Start Date | End Date   |
+| ------ | ------- | ---------- | ---------- |
+| META   | Meta    | 2025-03-01 | 2026-03-01 |
+| AMD    | AMD     | 2025-05-01 | 2026-04-01 |
+| NFLX   | Netflix | 2025-07-01 | 2026-04-01 |
+| INTC   | Intel   | 2025-09-01 | 2026-04-01 |
+| ADBE   | Adobe   | 2025-11-01 | 2026-04-01 |
+
+
 ---
-## Basic visualisations 
+# Basic visualisations 
 
 
 
