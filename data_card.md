@@ -70,6 +70,7 @@ All datasets had the same column structure:
       
 Date
 Close
+
       
 The closing prices were stored in the same numeric format in every file.
 Therefore, the datasets consistent and easy to compare.
