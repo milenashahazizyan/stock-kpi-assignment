@@ -74,6 +74,14 @@ Close
 The closing prices were stored in the same numeric format in every file.
 Therefore, the datasets consistent and easy to compare.
 
+| Ticker | Columns     | Date Type                 | Close Type |
+| ------ | ----------- | ------------------------- | ---------- |
+| NFLX   | Date, Close | datetime64[ns, UTC-04:00] | float64    |
+| META   | Date, Close | object                    | float64    |
+| GOOGL  | Date, Close | object                    | float64    |
+| AAPL   | Date, Close | object                    | float64    |
+| AMZN   | Date, Close | object                    | float64    |
+
 ---
 
 ## Conclusion
