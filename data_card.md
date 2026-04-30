@@ -27,7 +27,15 @@ Different time periods were selected:
 - AMZN – 1 year
 
 ---
+## Basic visualisations 
 
+
+
+![AMD](output_NFLX.png)
+![AMD](output_AMZN.png)
+![AMD](output_AAPL.png)
+![AMD](GOOGL.png)
+![AMD](META.png)
 ## KPI Results
 
 ### (a) Completeness
